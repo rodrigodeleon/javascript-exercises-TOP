@@ -7,6 +7,12 @@ const subtract = function (a, b) {
 };
 
 const sum = function () {
+
+  const argsArray =Array.from(arguments); 
+  const sum = () => {
+    return 
+  }
+
   let res = 0;
   let args = Array.from(arguments);
   args[0].forEach((element) => {

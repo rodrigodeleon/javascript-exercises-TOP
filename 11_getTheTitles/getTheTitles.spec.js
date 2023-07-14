@@ -2,7 +2,7 @@ const getTheTitles = require('./getTheTitles')
 
 describe('getTheTitles', () => {
     const books = [
-      {
+      { 
         title: 'Book',
         author: 'Name'
       },

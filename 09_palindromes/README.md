@@ -10,7 +10,7 @@ A palindrome is a string that is spelled the same both forwards and backwards, u
   - Lid off a daffodil.
   - Animal loots foliated detail of stool lamina.
   - A nut for a jar of tuna.
-
+ 
 ```javascript
 palindromes('racecar') // true
 palindromes('tacos') // false

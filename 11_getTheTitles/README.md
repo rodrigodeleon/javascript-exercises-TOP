@@ -9,7 +9,7 @@ const books = [
     author: 'Name'
   },
   {
-    title: 'Book2',
+    title: 'Book2', 
     author: 'Name2'
   }
 ]
